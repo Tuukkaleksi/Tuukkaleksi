@@ -1,6 +1,6 @@
-# Hello, I'm [Tuukkaleksi]! 👋
+# Hello, I'm [ Tuukkaleksi ]! 👋
 
-I'm a passionate web developer from [Finland]. I enjoy creating applications and websites using cutting-edge technologies.
+I'm a passionate web developer from [ Finland ]. I enjoy creating applications and websites using cutting-edge technologies.
 
 ## 🔧 Technologies & Tools
 
@@ -13,7 +13,7 @@ I'm a passionate web developer from [Finland]. I enjoy creating applications and
 
 ## 🌱 Currently Learning
 
-I'm currently focused on improving my skills in [Scripting] / [TypeScript].
+I'm currently focused on improving my skills in [ Scripting ] / [ TypeScript ].
 
 ## 📊 GitHub Stats
 
@@ -22,7 +22,8 @@ I'm currently focused on improving my skills in [Scripting] / [TypeScript].
 ## 📫 Contact Me
 
 <!--- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link) -->
-- Email: janialeksi22@outlook.com
+- Portfolio: [https://portfoliobytuukka.net/](https://portfoliobytuukka.net/)
+- Email: info@portfoliobytuukka.net
 
 Feel free to reach out! Let's connect and collaborate on exciting projects.
 
