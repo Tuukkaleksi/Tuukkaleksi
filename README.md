@@ -22,8 +22,8 @@ I'm currently focused on improving my skills in [ Scripting ] / [ TypeScript ].
 ## 📫 Contact Me
 
 <!--- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link) -->
-- Portfolio: [https://portfoliobytuukka.net/](https://portfoliobytuukka.net/)  - Might be currently unavailable.
-- Email: info@portfoliobytuukka.net
+- Portfolio: [https://tuukkaleksi.github.io](https://tuukkaleksi.github.io)  - Might be currently unavailable.
+- Email: null.
 
 Feel free to reach out! Let's connect and collaborate on exciting projects.
 
