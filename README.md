@@ -1,34 +1,56 @@
-# Hello, I'm [ Tuukkaleksi ]! 👋
+# Hi, I'm Tuukkaleksi 👋
 
-I'm a passionate web developer from [ Finland ]. I enjoy creating applications and websites using cutting-edge technologies.
+Web developer from Finland 🇫🇮  
+I build modern web applications and enjoy turning ideas into clean, functional user experiences.
 
-## 🔧 Technologies & Tools
+Currently working professionally as a developer and continuously improving my skills through real-world projects.
 
-- React
-- TypeScript
-- HTML
-- CSS
-- JavaScript
-- Java
+---
 
-## 🌱 Currently Learning
+## 🛠️ Technologies & Tools
 
-I'm currently focused on improving my skills in [ Scripting ] / [ TypeScript ].
+- **Frontend:** React, TypeScript, JavaScript
+- **Web:** HTML, CSS
+- **Backend / Other:** Java
+- **Tools:** GitHub, Git, VS Code
+
+---
+
+## 🚧 What I'm Working On
+
+- 🎮 **Gaming Web Application**  
+  A web-based gaming project currently under active development.  
+  *(Will be published publicly once it reaches a stable release)*
+
+- 💼 **Professional Work**  
+  Contributing to private repositories as part of my current job.
+
+- 📚 **Learning & Improving**
+  - Advanced TypeScript
+  - Scripting & automation
+  - Writing cleaner, more maintainable code
+
+---
+
+## 📌 Public Projects
+
+- 🌐 **Portfolio Website**  
+  https://tuukkaleksi.github.io  
+  *(May be under development or temporarily unavailable)*
+
+> More public projects will be added soon 🚀
+
+---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tuukkaleksi&show_icons=true&theme=radical)
 
-## 📫 Contact Me
+---
 
-<!--- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link) -->
-- Portfolio: [https://tuukkaleksi.github.io](https://tuukkaleksi.github.io)  - Might be currently unavailable.
-- Email: null.
+## 📫 Contact
 
-Feel free to reach out! Let's connect and collaborate on exciting projects.
+- 🌐 Portfolio: https://tuukkaleksi.github.io
+- 📍 Location: Finland 🇫🇮
 
-
-<!---
-Tuukkaleksi/Tuukkaleksi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for visiting my profile!
